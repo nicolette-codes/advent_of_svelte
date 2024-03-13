@@ -1,3 +1,3 @@
 <div class="container mx-auto">
-	<h1>Home page</h1>
+	<h1>Page Two</h1>
 </div>
