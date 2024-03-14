@@ -3,4 +3,9 @@ export type KidsTally {
     tally: number;
 }
 
+export type Presents {
+    name: string;
+    weight: number;
+}
+
 export type Filters = 'all' | 'nice' | 'naughty';
